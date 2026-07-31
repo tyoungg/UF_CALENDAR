@@ -132,7 +132,7 @@ else:
             default_term = term_bounds[-1]['term'] if term_bounds else "All Terms"
 
     # Sidebar
-    st.sidebar.image("https://www.ufl.edu/media/ufl_edu/images/logo.png", width=180)
+#    st.sidebar.image("https://www.ufl.edu/media/ufl_edu/images/logo.png", width=180)
     st.sidebar.markdown("### 🔍 Filters")
 
     search_query = st.sidebar.text_input("Search Events", "")
