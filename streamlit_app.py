@@ -93,6 +93,44 @@ else:
 
     today = datetime.date.today()
 
+    # Determine default term based on current date
+    term_bounds = []
+    for term_name in df_calendar['term'].unique():
+        term_df = df_calendar[df_calendar['term'] == term_name]
+        classes_begin = term_df[term_df['event'].str.contains('Classes Begin', case=False, na=False)]
+        classes_end = term_df[term_df['event'].str.contains('Classes End', case=False, na=False)]
+
+        if not classes_begin.empty:
+            start_dt = pd.to_datetime(classes_begin['date'].iloc[0]).date()
+        else:
+            start_dt = pd.to_datetime(term_df['date']).min().date()
+
+        if not classes_end.empty:
+            end_dt = pd.to_datetime(classes_end['date'].iloc[0]).date()
+        else:
+            end_dt = pd.to_datetime(term_df['date']).max().date()
+
+        term_bounds.append({
+            'term': term_name,
+            'start': start_dt,
+            'end': end_dt
+        })
+
+    active_terms = [t for t in term_bounds if t['start'] <= today <= t['end']]
+    if active_terms:
+        # If multiple active terms, pick the one that started most recently
+        active_terms.sort(key=lambda x: x['start'], reverse=True)
+        default_term = active_terms[0]['term']
+    else:
+        # Inbetween terms: pick the next upcoming term
+        upcoming_terms = [t for t in term_bounds if t['start'] > today]
+        if upcoming_terms:
+            upcoming_terms.sort(key=lambda x: x['start'])
+            default_term = upcoming_terms[0]['term']
+        else:
+            term_bounds.sort(key=lambda x: x['start'])
+            default_term = term_bounds[-1]['term'] if term_bounds else "All Terms"
+
     # Sidebar
     st.sidebar.image("https://www.ufl.edu/media/ufl_edu/images/logo.png", width=180)
     st.sidebar.markdown("### 🔍 Filters")
@@ -100,7 +138,12 @@ else:
     search_query = st.sidebar.text_input("Search Events", "")
 
     terms = ["All Terms"] + sorted(list(df_calendar['term'].unique()))
-    selected_term = st.sidebar.selectbox("Select Academic Term", terms)
+    try:
+        default_index = terms.index(default_term)
+    except ValueError:
+        default_index = 0
+
+    selected_term = st.sidebar.selectbox("Select Academic Term", terms, index=default_index)
 
     categories = ["All Categories"] + sorted(list(df_calendar['category'].unique()))
     selected_category = st.sidebar.selectbox("Select Event Category", categories)
