@@ -1,0 +1,242 @@
+[
+  {
+    "term":"Summer A 2026",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 25: Memorial Day",
+    "date":"2026-05-25",
+    "end_date":"2026-05-25"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 25: Memorial Day",
+    "date":"2026-05-25",
+    "end_date":"2026-05-25"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Juneteenth",
+    "category":"Holiday",
+    "raw_date":"June 19: Juneteenth",
+    "date":"2026-06-19",
+    "end_date":"2026-06-19"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Juneteenth",
+    "category":"Holiday",
+    "raw_date":"June 19: Juneteenth",
+    "date":"2026-06-19",
+    "end_date":"2026-06-19"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Summer Break",
+    "category":"Holiday",
+    "raw_date":"June 22 - 26: Summer Break",
+    "date":"2026-06-22",
+    "end_date":"2026-06-26"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Independence Day (Observed)",
+    "category":"Holiday",
+    "raw_date":"July 3: Independence Day (Observed)",
+    "date":"2026-07-03",
+    "end_date":"2026-07-03"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Independence Day (observed)",
+    "category":"Holiday",
+    "raw_date":"July 3: Independence Day (observed)",
+    "date":"2026-07-03",
+    "end_date":"2026-07-03"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Labor Day",
+    "category":"Holiday",
+    "raw_date":"September 7: Labor Day",
+    "date":"2026-09-07",
+    "end_date":"2026-09-07"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Homecoming",
+    "category":"Holiday",
+    "raw_date":"October 9 - 10: Homecoming",
+    "date":"2026-10-09",
+    "end_date":"2026-10-10"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Veterans Day",
+    "category":"Holiday",
+    "raw_date":"November 11: Veterans Day",
+    "date":"2026-11-11",
+    "end_date":"2026-11-11"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Thanksgiving Break",
+    "category":"Holiday",
+    "raw_date":"November 23 - 28: Thanksgiving Break",
+    "date":"2026-11-23",
+    "end_date":"2026-11-28"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"University Closed",
+    "category":"Holiday",
+    "raw_date":"December 25 - January 1",
+    "date":"2026-12-25",
+    "end_date":"2027-01-01"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Martin Luther King, Jr. Day",
+    "category":"Holiday",
+    "raw_date":"January 18: Martin Luther King, Jr. Day",
+    "date":"2027-01-18",
+    "end_date":"2027-01-18"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Spring Break",
+    "category":"Holiday",
+    "raw_date":"March 13 - 20: Spring Break",
+    "date":"2027-03-13",
+    "end_date":"2027-03-20"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 31: Memorial Day",
+    "date":"2027-05-31",
+    "end_date":"2027-05-31"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 31: Memorial Day",
+    "date":"2027-05-31",
+    "end_date":"2027-05-31"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth (Observed): June 18",
+    "date":"2027-06-18",
+    "end_date":"2027-06-18"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth (Observed): June 18",
+    "date":"2027-06-18",
+    "end_date":"2027-06-18"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Summer Break: June 21 - 25",
+    "date":"2027-06-21",
+    "end_date":"2027-06-25"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Independence Day (Observed)",
+    "category":"Holiday",
+    "raw_date":"July 5: Independence Day (Observed)",
+    "date":"2027-07-05",
+    "end_date":"2027-07-05"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Labor Day",
+    "category":"Holiday",
+    "raw_date":"September 6: Labor Day",
+    "date":"2027-09-06",
+    "end_date":"2027-09-06"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Veterans Day",
+    "category":"Holiday",
+    "raw_date":"November 11: Veterans Day",
+    "date":"2027-11-11",
+    "end_date":"2027-11-11"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Thanksgiving Break",
+    "category":"Holiday",
+    "raw_date":"November 22 - 27: Thanksgiving Break",
+    "date":"2027-11-22",
+    "end_date":"2027-11-27"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"University Closed",
+    "category":"Holiday",
+    "raw_date":"December 25 - January 2",
+    "date":"2027-12-25",
+    "end_date":"2028-01-02"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Martin Luther King, Jr. Day",
+    "category":"Holiday",
+    "raw_date":"January 17: Martin Luther King, Jr. Day",
+    "date":"2028-01-17",
+    "end_date":"2028-01-17"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 29: Memorial Day",
+    "date":"2028-05-29",
+    "end_date":"2028-05-29"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 29: Memorial Day",
+    "date":"2028-05-29",
+    "end_date":"2028-05-29"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth: June 19",
+    "date":"2028-06-19",
+    "end_date":"2028-06-19"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth: June 19",
+    "date":"2028-06-19",
+    "end_date":"2028-06-19"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Summer Break: June 19 - 23",
+    "date":"2028-06-19",
+    "end_date":"2028-06-23"
+  }
+]

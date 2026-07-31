@@ -1,0 +1,946 @@
+[
+  {
+    "term":"Fall 2026",
+    "event":"Advance Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 23 - August 18",
+    "date":"2026-03-23",
+    "end_date":"2026-08-18"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Advanced Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 23 - May 7",
+    "date":"2026-03-23",
+    "end_date":"2026-05-07"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Advance Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 23 - June 25",
+    "date":"2026-03-23",
+    "end_date":"2026-06-25"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Advanced Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 23 - May 7",
+    "date":"2026-03-23",
+    "end_date":"2026-05-07"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 8",
+    "date":"2026-05-08",
+    "end_date":"2026-05-08"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 8",
+    "date":"2026-05-08",
+    "end_date":"2026-05-08"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"May 11 - May 12",
+    "date":"2026-05-11",
+    "end_date":"2026-05-12"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"May 20",
+    "date":"2026-05-20",
+    "end_date":"2026-05-20"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"May 29",
+    "date":"2026-05-29",
+    "end_date":"2026-05-29"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"June 12",
+    "date":"2026-06-12",
+    "end_date":"2026-06-12"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Drop or Add a Course after the Drop Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"June 13 - 18",
+    "date":"2026-06-13",
+    "end_date":"2026-06-18"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"June 26",
+    "date":"2026-06-26",
+    "end_date":"2026-06-26"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"June 29, 30",
+    "date":"2026-06-29",
+    "end_date":"2026-06-30"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"June 29, 30",
+    "date":"2026-06-29",
+    "end_date":"2026-06-30"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"June 29, 30",
+    "date":"2026-06-29",
+    "end_date":"2026-06-30"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"June 29, 30",
+    "date":"2026-06-29",
+    "end_date":"2026-06-30"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"July 8",
+    "date":"2026-07-08",
+    "end_date":"2026-07-08"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Drop Deadline",
+    "category":"Registration",
+    "raw_date":"July 31",
+    "date":"2026-07-31",
+    "end_date":"2026-07-31"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"July 31",
+    "date":"2026-07-31",
+    "end_date":"2026-07-31"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline",
+    "category":"Registration",
+    "raw_date":"August 1 - 7",
+    "date":"2026-08-01",
+    "end_date":"2026-08-07"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Withdraw from all Courses after the Drop\/Withdrawal Deadline",
+    "category":"Registration",
+    "raw_date":"August 1 - 7",
+    "date":"2026-08-01",
+    "end_date":"2026-08-07"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Drop or Add a Course after the Drop Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"August 3 - 7",
+    "date":"2026-08-03",
+    "end_date":"2026-08-07"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"August 19",
+    "date":"2026-08-19",
+    "end_date":"2026-08-19"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"August 20, 21, 24 - 26",
+    "date":"2026-08-20",
+    "end_date":"2026-08-26"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"August 20, 21, 24 - 26",
+    "date":"2026-08-20",
+    "end_date":"2026-08-26"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"August 20, 21, 24 - 26",
+    "date":"2026-08-20",
+    "end_date":"2026-08-26"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"August 24 - 26",
+    "date":"2026-08-24",
+    "end_date":"2026-08-26"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"September 4",
+    "date":"2026-09-04",
+    "end_date":"2026-09-04"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Advance Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"October 26 - January 7",
+    "date":"2026-10-26",
+    "end_date":"2027-01-07"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"November 16",
+    "date":"2026-11-16",
+    "end_date":"2026-11-16"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"November 17 - December 2",
+    "date":"2026-11-17",
+    "end_date":"2026-12-02"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Withdraw from All Fall Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"November 17 - December 2",
+    "date":"2026-11-17",
+    "end_date":"2026-12-02"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"January 8",
+    "date":"2027-01-08",
+    "end_date":"2027-01-08"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"January 11 - 15",
+    "date":"2027-01-11",
+    "end_date":"2027-01-15"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"January 11 - 15",
+    "date":"2027-01-11",
+    "end_date":"2027-01-15"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"January 11 - 15",
+    "date":"2027-01-11",
+    "end_date":"2027-01-15"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"January 13 - 15",
+    "date":"2027-01-13",
+    "end_date":"2027-01-15"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"January 29",
+    "date":"2027-01-29",
+    "end_date":"2027-01-29"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Advance Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 22 - August 18",
+    "date":"2027-03-22",
+    "end_date":"2027-08-18"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Advanced Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 22 - May 6",
+    "date":"2027-03-22",
+    "end_date":"2027-05-06"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Advance Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 22 - June 24",
+    "date":"2027-03-22",
+    "end_date":"2027-06-24"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Advanced Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 22 - May 6",
+    "date":"2027-03-22",
+    "end_date":"2027-05-06"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"April 9",
+    "date":"2027-04-09",
+    "end_date":"2027-04-09"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"April 10 - 21",
+    "date":"2027-04-10",
+    "end_date":"2027-04-21"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Withdraw from All Spring Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"April 10 - 21",
+    "date":"2027-04-10",
+    "end_date":"2027-04-21"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 7",
+    "date":"2027-05-07",
+    "end_date":"2027-05-07"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 7",
+    "date":"2027-05-07",
+    "end_date":"2027-05-07"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"May 10 - 11",
+    "date":"2027-05-10",
+    "end_date":"2027-05-11"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"May 19",
+    "date":"2027-05-19",
+    "end_date":"2027-05-19"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"May 28",
+    "date":"2027-05-28",
+    "end_date":"2027-05-28"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"June 11",
+    "date":"2027-06-11",
+    "end_date":"2027-06-11"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"June 12 - 17",
+    "date":"2027-06-12",
+    "end_date":"2027-06-17"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Withdraw from All Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"June 12 - 17",
+    "date":"2027-06-12",
+    "end_date":"2027-06-17"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"June 25",
+    "date":"2027-06-25",
+    "end_date":"2027-06-25"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"June 28, 29",
+    "date":"2027-06-28",
+    "end_date":"2027-06-29"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"June 28, 29",
+    "date":"2027-06-28",
+    "end_date":"2027-06-29"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"June 28, 29",
+    "date":"2027-06-28",
+    "end_date":"2027-06-29"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"June 28, 29",
+    "date":"2027-06-28",
+    "end_date":"2027-06-29"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"July 7",
+    "date":"2027-07-07",
+    "end_date":"2027-07-07"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Drop Deadline",
+    "category":"Registration",
+    "raw_date":"July 30",
+    "date":"2027-07-30",
+    "end_date":"2027-07-30"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"July 30",
+    "date":"2027-07-30",
+    "end_date":"2027-07-30"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"July 31 - August 6",
+    "date":"2027-07-31",
+    "end_date":"2027-08-06"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Withdraw from All Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"July 31 - August 6",
+    "date":"2027-07-31",
+    "end_date":"2027-08-06"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline",
+    "category":"Registration",
+    "raw_date":"August 6",
+    "date":"2027-08-06",
+    "end_date":"2027-08-06"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Withdraw from all Courses after the Drop\/Withdrawal Deadline",
+    "category":"Registration",
+    "raw_date":"August 6",
+    "date":"2027-08-06",
+    "end_date":"2027-08-06"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"August 18",
+    "date":"2027-08-18",
+    "end_date":"2027-08-18"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"August 19, 20, 23 - 25",
+    "date":"2027-08-19",
+    "end_date":"2027-08-25"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"August 19, 20, 23 - 25",
+    "date":"2027-08-19",
+    "end_date":"2027-08-25"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"August 19, 20, 23 - 25",
+    "date":"2027-08-19",
+    "end_date":"2027-08-25"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"August 23 - 25",
+    "date":"2027-08-23",
+    "end_date":"2027-08-25"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"September 3",
+    "date":"2027-09-03",
+    "end_date":"2027-09-03"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Advance Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"October 18 - January 6",
+    "date":"2027-10-18",
+    "end_date":"2028-01-06"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"November 15",
+    "date":"2027-11-15",
+    "end_date":"2027-11-15"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"November 16 - December 1",
+    "date":"2027-11-16",
+    "end_date":"2027-12-01"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Withdraw from All Fall Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"November 16 - December 1",
+    "date":"2027-11-16",
+    "end_date":"2027-12-01"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"January 7",
+    "date":"2028-01-07",
+    "end_date":"2028-01-07"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"January 10 - 14",
+    "date":"2028-01-10",
+    "end_date":"2028-01-14"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"January 10 - 14",
+    "date":"2028-01-10",
+    "end_date":"2028-01-14"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"January 10 - 14",
+    "date":"2028-01-10",
+    "end_date":"2028-01-14"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"January 12 - 14",
+    "date":"2028-01-12",
+    "end_date":"2028-01-14"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"January 28",
+    "date":"2028-01-28",
+    "end_date":"2028-01-28"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Advanced Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 27 - May 4",
+    "date":"2028-03-27",
+    "end_date":"2028-05-04"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Advanced Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"March 27 - May 4",
+    "date":"2028-03-27",
+    "end_date":"2028-05-04"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"April 7",
+    "date":"2028-04-07",
+    "end_date":"2028-04-07"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"April 19",
+    "date":"2028-04-19",
+    "end_date":"2028-04-19"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Withdraw from All Spring Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"April 19",
+    "date":"2028-04-19",
+    "end_date":"2028-04-19"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 5",
+    "date":"2028-05-05",
+    "end_date":"2028-05-05"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 5",
+    "date":"2028-05-05",
+    "end_date":"2028-05-05"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Drop\/Add (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Late Registration",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Non-Degree Registration (at or after assigned start time)",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"UF (EEP) and State Employee Registration",
+    "category":"Registration",
+    "raw_date":"May 8 - 9",
+    "date":"2028-05-08",
+    "end_date":"2028-05-09"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"May 17",
+    "date":"2028-05-17",
+    "end_date":"2028-05-17"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"S\/U Grade Option",
+    "category":"Registration",
+    "raw_date":"May 19",
+    "date":"2028-05-19",
+    "end_date":"2028-05-19"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"June 9",
+    "date":"2028-06-09",
+    "end_date":"2028-06-09"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"June 16",
+    "date":"2028-06-16",
+    "end_date":"2028-06-16"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Withdraw from All Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"June 16",
+    "date":"2028-06-16",
+    "end_date":"2028-06-16"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"July 28",
+    "date":"2028-07-28",
+    "end_date":"2028-07-28"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Drop or Add a Course after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"August 4",
+    "date":"2028-08-04",
+    "end_date":"2028-08-04"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Withdraw from All Courses after the Drop\/Withdrawal Deadline (Students must petition their college with appropriate documentation for approval to withdraw from all courses.)",
+    "category":"Registration",
+    "raw_date":"August 4",
+    "date":"2028-08-04",
+    "end_date":"2028-08-04"
+  }
+]

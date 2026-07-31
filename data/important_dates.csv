@@ -1,0 +1,122 @@
+term,event,category,raw_date,date,end_date
+Summer A 2026,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,May 8,2026-05-08,2026-05-08
+Summer C 2026,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,May 8,2026-05-08,2026-05-08
+Summer A 2026,Classes Begin,Academic,May 11,2026-05-11,2026-05-11
+Summer C 2026,Classes Begin,Academic,May 11,2026-05-11,2026-05-11
+Summer A 2026,Fee Payments (University Bursar),Financial,May 22 (3:30 pm),2026-05-22,2026-05-22
+Summer C 2026,Fee Payments (University Bursar),Financial,May 22 (3:30 pm),2026-05-22,2026-05-22
+Summer A 2026,Memorial Day,Holiday,May 25: Memorial Day,2026-05-25,2026-05-25
+Summer C 2026,Memorial Day,Holiday,May 25: Memorial Day,2026-05-25,2026-05-25
+Summer A 2026,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,June 12,2026-06-12,2026-06-12
+Summer A 2026,Drop or Add a Course after the Drop Deadline (Students must petition their college with appropriate documentation for approval to drop or add.),Registration,June 13 - 18,2026-06-13,2026-06-18
+Summer A 2026,Classes End,Academic,June 18,2026-06-18,2026-06-18
+Summer A 2026,Juneteenth,Holiday,June 19: Juneteenth,2026-06-19,2026-06-19
+Summer C 2026,Juneteenth,Holiday,June 19: Juneteenth,2026-06-19,2026-06-19
+Summer C 2026,Summer Break,Holiday,June 22 - 26: Summer Break,2026-06-22,2026-06-26
+Summer A 2026,"Final Grades Available (transcript view, on ONE.UF)",Academic,June 24,2026-06-24,2026-06-24
+Summer B 2026,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,June 26,2026-06-26,2026-06-26
+Summer B 2026,Classes Begin,Academic,June 29,2026-06-29,2026-06-29
+Summer B 2026,Independence Day (Observed),Holiday,July 3: Independence Day (Observed),2026-07-03,2026-07-03
+Summer C 2026,Independence Day (observed),Holiday,July 3: Independence Day (observed),2026-07-03,2026-07-03
+Summer B 2026,Fee Payments (University Bursar),Financial,July 10,2026-07-10,2026-07-10
+Summer B 2026,Drop Deadline,Registration,July 31,2026-07-31,2026-07-31
+Summer C 2026,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,July 31,2026-07-31,2026-07-31
+Summer C 2026,Drop or Add a Course after the Drop Deadline (Students must petition their college with appropriate documentation for approval to drop or add.),Registration,August 3 - 7,2026-08-03,2026-08-07
+Summer B 2026,Classes End,Academic,August 7,2026-08-07,2026-08-07
+Summer B 2026,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,"August 7, 8",2026-08-07,2026-08-08
+Summer C 2026,Classes End,Academic,August 7,2026-08-07,2026-08-07
+Summer C 2026,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,August 7 - 8,2026-08-07,2026-08-08
+Summer B 2026,"Final Grades Available (transcript view, ONE.UF) 4",Academic,August 12,2026-08-12,2026-08-12
+Summer C 2026,"Final Grades Available (transcript view, on ONE.UF)",Academic,August 12,2026-08-12,2026-08-12
+Fall 2026,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,August 19,2026-08-19,2026-08-19
+Fall 2026,Classes Begin,Academic,August 20,2026-08-20,2026-08-20
+Fall 2026,Fee Payments (University Bursar),Financial,September 4,2026-09-04,2026-09-04
+Fall 2026,Labor Day,Holiday,September 7: Labor Day,2026-09-07,2026-09-07
+Fall 2026,Homecoming,Holiday,October 9 - 10: Homecoming,2026-10-09,2026-10-10
+Fall 2026,Veterans Day,Holiday,November 11: Veterans Day,2026-11-11,2026-11-11
+Fall 2026,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,November 16,2026-11-16,2026-11-16
+Fall 2026,Thanksgiving Break,Holiday,November 23 - 28: Thanksgiving Break,2026-11-23,2026-11-28
+Fall 2026,Classes End,Academic,December 2,2026-12-02,2026-12-02
+Fall 2026,Reading Days (no classes),Academic,December 3 - 4,2026-12-03,2026-12-04
+Fall 2026,Final Exams,Academic,December 5 - 11,2026-12-05,2026-12-11
+Fall 2026,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,December 11 - 12,2026-12-11,2026-12-12
+Fall 2026,"Final Grades Available (transcript view, on ONE.UF)",Academic,December 16,2026-12-16,2026-12-16
+Fall 2026,University Closed,Holiday,December 25 - January 1,2026-12-25,2027-01-01
+Spring 2027,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,January 8,2027-01-08,2027-01-08
+Spring 2027,Classes Begin,Academic,January 11,2027-01-11,2027-01-11
+Spring 2027,"Martin Luther King, Jr. Day",Holiday,"January 18: Martin Luther King, Jr. Day",2027-01-18,2027-01-18
+Spring 2027,Fee Payments (University Bursar),Financial,January 22,2027-01-22,2027-01-22
+Spring 2027,Spring Break,Holiday,March 13 - 20: Spring Break,2027-03-13,2027-03-20
+Spring 2027,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,April 9,2027-04-09,2027-04-09
+Spring 2027,Classes End,Academic,April 21,2027-04-21,2027-04-21
+Spring 2027,Reading Days (no classes),Academic,April 22 - 23,2027-04-22,2027-04-23
+Spring 2027,Final Exams,Academic,April 24 - 30,2027-04-24,2027-04-30
+Spring 2027,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,"April 30, May 1, 2",2027-04-30,2027-05-02
+Spring 2027,"Final Grades Available (transcript view, on ONE.UF)",Academic,May 5,2027-05-05,2027-05-05
+Summer A 2027,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,May 7,2027-05-07,2027-05-07
+Summer C 2027,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,May 7,2027-05-07,2027-05-07
+Summer A 2027,Classes Begin,Academic,May 10,2027-05-10,2027-05-10
+Summer C 2027,Classes Begin,Academic,May 10,2027-05-10,2027-05-10
+Summer A 2027,Fee Payments (University Bursar),Financial,May 21,2027-05-21,2027-05-21
+Summer C 2027,Fee Payments (University Bursar),Financial,May 21,2027-05-21,2027-05-21
+Summer A 2027,Memorial Day,Holiday,May 31: Memorial Day,2027-05-31,2027-05-31
+Summer C 2027,Memorial Day,Holiday,May 31: Memorial Day,2027-05-31,2027-05-31
+Summer A 2027,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,June 11,2027-06-11,2027-06-11
+Summer A 2027,Classes End,Academic,June 17,2027-06-17,2027-06-17
+Summer A 2027,Holidays (no classes),Holiday,Juneteenth (Observed): June 18,2027-06-18,2027-06-18
+Summer C 2027,Holidays (no classes),Holiday,Juneteenth (Observed): June 18,2027-06-18,2027-06-18
+Summer C 2027,Holidays (no classes),Holiday,Summer Break: June 21 - 25,2027-06-21,2027-06-25
+Summer A 2027,"Final Grades Available (transcript view, on ONE.UF)",Academic,June 23,2027-06-23,2027-06-23
+Summer B 2027,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,June 25,2027-06-25,2027-06-25
+Summer B 2027,Classes Begin,Academic,June 28,2027-06-28,2027-06-28
+Summer B 2027,Independence Day (Observed),Holiday,July 5: Independence Day (Observed),2027-07-05,2027-07-05
+Summer B 2027,Fee Payments (University Bursar),Financial,July 9,2027-07-09,2027-07-09
+Summer B 2027,Drop Deadline,Registration,July 30,2027-07-30,2027-07-30
+Summer C 2027,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,July 30,2027-07-30,2027-07-30
+Summer B 2027,Classes End,Academic,August 6,2027-08-06,2027-08-06
+Summer B 2027,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,"August 6, 7",2027-08-06,2027-08-07
+Summer C 2027,Classes End,Academic,August 6,2027-08-06,2027-08-06
+Summer C 2027,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,August 6 - 7,2027-08-06,2027-08-07
+Summer B 2027,"Final Grades Available (transcript view, ONE.UF) 4",Academic,August 11,2027-08-11,2027-08-11
+Summer C 2027,"Final Grades Available (transcript view, on ONE.UF)",Academic,August 11,2027-08-11,2027-08-11
+Fall 2027,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,August 18,2027-08-18,2027-08-18
+Fall 2027,Classes Begin,Academic,August 19,2027-08-19,2027-08-19
+Fall 2027,Fee Payments (University Bursar),Financial,September 3,2027-09-03,2027-09-03
+Fall 2027,Labor Day,Holiday,September 6: Labor Day,2027-09-06,2027-09-06
+Fall 2027,Veterans Day,Holiday,November 11: Veterans Day,2027-11-11,2027-11-11
+Fall 2027,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,November 15,2027-11-15,2027-11-15
+Fall 2027,Thanksgiving Break,Holiday,November 22 - 27: Thanksgiving Break,2027-11-22,2027-11-27
+Fall 2027,Classes End,Academic,December 1,2027-12-01,2027-12-01
+Fall 2027,Reading Days (no classes),Academic,December 2 - 3,2027-12-02,2027-12-03
+Fall 2027,Final Exams,Academic,December 4 - 10,2027-12-04,2027-12-10
+Fall 2027,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,December 10 - 11,2027-12-10,2027-12-11
+Fall 2027,"Final Grades Available (transcript view, on ONE.UF)",Academic,December 15,2027-12-15,2027-12-15
+Fall 2027,University Closed,Holiday,December 25 - January 2,2027-12-25,2028-01-02
+Spring 2028,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,January 7,2028-01-07,2028-01-07
+Spring 2028,Classes Begin,Academic,January 10,2028-01-10,2028-01-10
+Spring 2028,"Martin Luther King, Jr. Day",Holiday,"January 17: Martin Luther King, Jr. Day",2028-01-17,2028-01-17
+Spring 2028,Fee Payments (University Bursar),Financial,January 21,2028-01-21,2028-01-21
+Spring 2028,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,April 7,2028-04-07,2028-04-07
+Spring 2028,Classes End,Academic,April 19,2028-04-19,2028-04-19
+Spring 2028,Reading Days (no classes),Academic,April 20 - 21,2028-04-20,2028-04-21
+Spring 2028,Final Exams,Academic,April 22 - April 28,2028-04-22,2028-04-28
+Spring 2028,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,"April 28, 29, 30",2028-04-28,2028-04-30
+Spring 2028,"Final Grades Available (transcript view, on ONE.UF)",Academic,May 3,2028-05-03,2028-05-03
+Summer A 2028,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,May 5,2028-05-05,2028-05-05
+Summer C 2028,Regular Registration ($100 late fee after 11:59 pm deadline),Registration,May 5,2028-05-05,2028-05-05
+Summer A 2028,Classes Begin,Academic,May 8,2028-05-08,2028-05-08
+Summer C 2028,Classes Begin,Academic,May 8,2028-05-08,2028-05-08
+Summer A 2028,Fee Payments (University Bursar),Financial,May 19,2028-05-19,2028-05-19
+Summer C 2028,Fee Payments (University Bursar),Financial,May 19,2028-05-19,2028-05-19
+Summer A 2028,Memorial Day,Holiday,May 29: Memorial Day,2028-05-29,2028-05-29
+Summer C 2028,Memorial Day,Holiday,May 29: Memorial Day,2028-05-29,2028-05-29
+Summer A 2028,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,June 9,2028-06-09,2028-06-09
+Summer A 2028,Classes End,Academic,June 16,2028-06-16,2028-06-16
+Summer A 2028,Holidays (no classes),Holiday,Juneteenth: June 19,2028-06-19,2028-06-19
+Summer C 2028,Holidays (no classes),Holiday,Juneteenth: June 19,2028-06-19,2028-06-19
+Summer C 2028,Holidays (no classes),Holiday,Summer Break: June 19 - 23,2028-06-19,2028-06-23
+Summer A 2028,"Final Grades Available (transcript view, on ONE.UF)",Academic,June 22,2028-06-22,2028-06-22
+Summer C 2028,Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.),Registration,July 28,2028-07-28,2028-07-28
+Summer C 2028,Classes End,Academic,August 4,2028-08-04,2028-08-04
+Summer C 2028,Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates/times of all ceremonies will be posted when officially scheduled.),Commencement,August 4 - 5,2028-08-04,2028-08-05
+Summer C 2028,"Final Grades Available (transcript view, on ONE.UF)",Academic,August 9,2028-08-09,2028-08-09

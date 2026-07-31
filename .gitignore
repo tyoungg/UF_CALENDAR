@@ -1,0 +1,12 @@
+# Python cache and byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment/IDE configs
+.venv/
+venv/
+.env
+.vscode/
+.idea/

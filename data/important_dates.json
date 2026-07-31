@@ -1,0 +1,970 @@
+[
+  {
+    "term":"Summer A 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 8",
+    "date":"2026-05-08",
+    "end_date":"2026-05-08"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 8",
+    "date":"2026-05-08",
+    "end_date":"2026-05-08"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"May 11",
+    "date":"2026-05-11",
+    "end_date":"2026-05-11"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"May 11",
+    "date":"2026-05-11",
+    "end_date":"2026-05-11"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"May 22 (3:30 pm)",
+    "date":"2026-05-22",
+    "end_date":"2026-05-22"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"May 22 (3:30 pm)",
+    "date":"2026-05-22",
+    "end_date":"2026-05-22"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 25: Memorial Day",
+    "date":"2026-05-25",
+    "end_date":"2026-05-25"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 25: Memorial Day",
+    "date":"2026-05-25",
+    "end_date":"2026-05-25"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"June 12",
+    "date":"2026-06-12",
+    "end_date":"2026-06-12"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Drop or Add a Course after the Drop Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"June 13 - 18",
+    "date":"2026-06-13",
+    "end_date":"2026-06-18"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"June 18",
+    "date":"2026-06-18",
+    "end_date":"2026-06-18"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Juneteenth",
+    "category":"Holiday",
+    "raw_date":"June 19: Juneteenth",
+    "date":"2026-06-19",
+    "end_date":"2026-06-19"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Juneteenth",
+    "category":"Holiday",
+    "raw_date":"June 19: Juneteenth",
+    "date":"2026-06-19",
+    "end_date":"2026-06-19"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Summer Break",
+    "category":"Holiday",
+    "raw_date":"June 22 - 26: Summer Break",
+    "date":"2026-06-22",
+    "end_date":"2026-06-26"
+  },
+  {
+    "term":"Summer A 2026",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"June 24",
+    "date":"2026-06-24",
+    "end_date":"2026-06-24"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"June 26",
+    "date":"2026-06-26",
+    "end_date":"2026-06-26"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"June 29",
+    "date":"2026-06-29",
+    "end_date":"2026-06-29"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Independence Day (Observed)",
+    "category":"Holiday",
+    "raw_date":"July 3: Independence Day (Observed)",
+    "date":"2026-07-03",
+    "end_date":"2026-07-03"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Independence Day (observed)",
+    "category":"Holiday",
+    "raw_date":"July 3: Independence Day (observed)",
+    "date":"2026-07-03",
+    "end_date":"2026-07-03"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"July 10",
+    "date":"2026-07-10",
+    "end_date":"2026-07-10"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Drop Deadline",
+    "category":"Registration",
+    "raw_date":"July 31",
+    "date":"2026-07-31",
+    "end_date":"2026-07-31"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"July 31",
+    "date":"2026-07-31",
+    "end_date":"2026-07-31"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Drop or Add a Course after the Drop Deadline (Students must petition their college with appropriate documentation for approval to drop or add.)",
+    "category":"Registration",
+    "raw_date":"August 3 - 7",
+    "date":"2026-08-03",
+    "end_date":"2026-08-07"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"August 7",
+    "date":"2026-08-07",
+    "end_date":"2026-08-07"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"August 7, 8",
+    "date":"2026-08-07",
+    "end_date":"2026-08-08"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"August 7",
+    "date":"2026-08-07",
+    "end_date":"2026-08-07"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"August 7 - 8",
+    "date":"2026-08-07",
+    "end_date":"2026-08-08"
+  },
+  {
+    "term":"Summer B 2026",
+    "event":"Final Grades Available (transcript view, ONE.UF) 4",
+    "category":"Academic",
+    "raw_date":"August 12",
+    "date":"2026-08-12",
+    "end_date":"2026-08-12"
+  },
+  {
+    "term":"Summer C 2026",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"August 12",
+    "date":"2026-08-12",
+    "end_date":"2026-08-12"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"August 19",
+    "date":"2026-08-19",
+    "end_date":"2026-08-19"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"August 20",
+    "date":"2026-08-20",
+    "end_date":"2026-08-20"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"September 4",
+    "date":"2026-09-04",
+    "end_date":"2026-09-04"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Labor Day",
+    "category":"Holiday",
+    "raw_date":"September 7: Labor Day",
+    "date":"2026-09-07",
+    "end_date":"2026-09-07"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Homecoming",
+    "category":"Holiday",
+    "raw_date":"October 9 - 10: Homecoming",
+    "date":"2026-10-09",
+    "end_date":"2026-10-10"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Veterans Day",
+    "category":"Holiday",
+    "raw_date":"November 11: Veterans Day",
+    "date":"2026-11-11",
+    "end_date":"2026-11-11"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"November 16",
+    "date":"2026-11-16",
+    "end_date":"2026-11-16"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Thanksgiving Break",
+    "category":"Holiday",
+    "raw_date":"November 23 - 28: Thanksgiving Break",
+    "date":"2026-11-23",
+    "end_date":"2026-11-28"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"December 2",
+    "date":"2026-12-02",
+    "end_date":"2026-12-02"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Reading Days (no classes)",
+    "category":"Academic",
+    "raw_date":"December 3 - 4",
+    "date":"2026-12-03",
+    "end_date":"2026-12-04"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Final Exams",
+    "category":"Academic",
+    "raw_date":"December 5 - 11",
+    "date":"2026-12-05",
+    "end_date":"2026-12-11"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"December 11 - 12",
+    "date":"2026-12-11",
+    "end_date":"2026-12-12"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"December 16",
+    "date":"2026-12-16",
+    "end_date":"2026-12-16"
+  },
+  {
+    "term":"Fall 2026",
+    "event":"University Closed",
+    "category":"Holiday",
+    "raw_date":"December 25 - January 1",
+    "date":"2026-12-25",
+    "end_date":"2027-01-01"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"January 8",
+    "date":"2027-01-08",
+    "end_date":"2027-01-08"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"January 11",
+    "date":"2027-01-11",
+    "end_date":"2027-01-11"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Martin Luther King, Jr. Day",
+    "category":"Holiday",
+    "raw_date":"January 18: Martin Luther King, Jr. Day",
+    "date":"2027-01-18",
+    "end_date":"2027-01-18"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"January 22",
+    "date":"2027-01-22",
+    "end_date":"2027-01-22"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Spring Break",
+    "category":"Holiday",
+    "raw_date":"March 13 - 20: Spring Break",
+    "date":"2027-03-13",
+    "end_date":"2027-03-20"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"April 9",
+    "date":"2027-04-09",
+    "end_date":"2027-04-09"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"April 21",
+    "date":"2027-04-21",
+    "end_date":"2027-04-21"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Reading Days (no classes)",
+    "category":"Academic",
+    "raw_date":"April 22 - 23",
+    "date":"2027-04-22",
+    "end_date":"2027-04-23"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Final Exams",
+    "category":"Academic",
+    "raw_date":"April 24 - 30",
+    "date":"2027-04-24",
+    "end_date":"2027-04-30"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"April 30, May 1, 2",
+    "date":"2027-04-30",
+    "end_date":"2027-05-02"
+  },
+  {
+    "term":"Spring 2027",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"May 5",
+    "date":"2027-05-05",
+    "end_date":"2027-05-05"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 7",
+    "date":"2027-05-07",
+    "end_date":"2027-05-07"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 7",
+    "date":"2027-05-07",
+    "end_date":"2027-05-07"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"May 10",
+    "date":"2027-05-10",
+    "end_date":"2027-05-10"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"May 10",
+    "date":"2027-05-10",
+    "end_date":"2027-05-10"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"May 21",
+    "date":"2027-05-21",
+    "end_date":"2027-05-21"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"May 21",
+    "date":"2027-05-21",
+    "end_date":"2027-05-21"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 31: Memorial Day",
+    "date":"2027-05-31",
+    "end_date":"2027-05-31"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 31: Memorial Day",
+    "date":"2027-05-31",
+    "end_date":"2027-05-31"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"June 11",
+    "date":"2027-06-11",
+    "end_date":"2027-06-11"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"June 17",
+    "date":"2027-06-17",
+    "end_date":"2027-06-17"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth (Observed): June 18",
+    "date":"2027-06-18",
+    "end_date":"2027-06-18"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth (Observed): June 18",
+    "date":"2027-06-18",
+    "end_date":"2027-06-18"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Summer Break: June 21 - 25",
+    "date":"2027-06-21",
+    "end_date":"2027-06-25"
+  },
+  {
+    "term":"Summer A 2027",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"June 23",
+    "date":"2027-06-23",
+    "end_date":"2027-06-23"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"June 25",
+    "date":"2027-06-25",
+    "end_date":"2027-06-25"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"June 28",
+    "date":"2027-06-28",
+    "end_date":"2027-06-28"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Independence Day (Observed)",
+    "category":"Holiday",
+    "raw_date":"July 5: Independence Day (Observed)",
+    "date":"2027-07-05",
+    "end_date":"2027-07-05"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"July 9",
+    "date":"2027-07-09",
+    "end_date":"2027-07-09"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Drop Deadline",
+    "category":"Registration",
+    "raw_date":"July 30",
+    "date":"2027-07-30",
+    "end_date":"2027-07-30"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"July 30",
+    "date":"2027-07-30",
+    "end_date":"2027-07-30"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"August 6",
+    "date":"2027-08-06",
+    "end_date":"2027-08-06"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"August 6, 7",
+    "date":"2027-08-06",
+    "end_date":"2027-08-07"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"August 6",
+    "date":"2027-08-06",
+    "end_date":"2027-08-06"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"August 6 - 7",
+    "date":"2027-08-06",
+    "end_date":"2027-08-07"
+  },
+  {
+    "term":"Summer B 2027",
+    "event":"Final Grades Available (transcript view, ONE.UF) 4",
+    "category":"Academic",
+    "raw_date":"August 11",
+    "date":"2027-08-11",
+    "end_date":"2027-08-11"
+  },
+  {
+    "term":"Summer C 2027",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"August 11",
+    "date":"2027-08-11",
+    "end_date":"2027-08-11"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"August 18",
+    "date":"2027-08-18",
+    "end_date":"2027-08-18"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"August 19",
+    "date":"2027-08-19",
+    "end_date":"2027-08-19"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"September 3",
+    "date":"2027-09-03",
+    "end_date":"2027-09-03"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Labor Day",
+    "category":"Holiday",
+    "raw_date":"September 6: Labor Day",
+    "date":"2027-09-06",
+    "end_date":"2027-09-06"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Veterans Day",
+    "category":"Holiday",
+    "raw_date":"November 11: Veterans Day",
+    "date":"2027-11-11",
+    "end_date":"2027-11-11"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"November 15",
+    "date":"2027-11-15",
+    "end_date":"2027-11-15"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Thanksgiving Break",
+    "category":"Holiday",
+    "raw_date":"November 22 - 27: Thanksgiving Break",
+    "date":"2027-11-22",
+    "end_date":"2027-11-27"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"December 1",
+    "date":"2027-12-01",
+    "end_date":"2027-12-01"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Reading Days (no classes)",
+    "category":"Academic",
+    "raw_date":"December 2 - 3",
+    "date":"2027-12-02",
+    "end_date":"2027-12-03"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Final Exams",
+    "category":"Academic",
+    "raw_date":"December 4 - 10",
+    "date":"2027-12-04",
+    "end_date":"2027-12-10"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"December 10 - 11",
+    "date":"2027-12-10",
+    "end_date":"2027-12-11"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"December 15",
+    "date":"2027-12-15",
+    "end_date":"2027-12-15"
+  },
+  {
+    "term":"Fall 2027",
+    "event":"University Closed",
+    "category":"Holiday",
+    "raw_date":"December 25 - January 2",
+    "date":"2027-12-25",
+    "end_date":"2028-01-02"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"January 7",
+    "date":"2028-01-07",
+    "end_date":"2028-01-07"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"January 10",
+    "date":"2028-01-10",
+    "end_date":"2028-01-10"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Martin Luther King, Jr. Day",
+    "category":"Holiday",
+    "raw_date":"January 17: Martin Luther King, Jr. Day",
+    "date":"2028-01-17",
+    "end_date":"2028-01-17"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"January 21",
+    "date":"2028-01-21",
+    "end_date":"2028-01-21"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"April 7",
+    "date":"2028-04-07",
+    "end_date":"2028-04-07"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"April 19",
+    "date":"2028-04-19",
+    "end_date":"2028-04-19"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Reading Days (no classes)",
+    "category":"Academic",
+    "raw_date":"April 20 - 21",
+    "date":"2028-04-20",
+    "end_date":"2028-04-21"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Final Exams",
+    "category":"Academic",
+    "raw_date":"April 22 - April 28",
+    "date":"2028-04-22",
+    "end_date":"2028-04-28"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"April 28, 29, 30",
+    "date":"2028-04-28",
+    "end_date":"2028-04-30"
+  },
+  {
+    "term":"Spring 2028",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"May 3",
+    "date":"2028-05-03",
+    "end_date":"2028-05-03"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 5",
+    "date":"2028-05-05",
+    "end_date":"2028-05-05"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Regular Registration ($100 late fee after 11:59 pm deadline)",
+    "category":"Registration",
+    "raw_date":"May 5",
+    "date":"2028-05-05",
+    "end_date":"2028-05-05"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"May 8",
+    "date":"2028-05-08",
+    "end_date":"2028-05-08"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Classes Begin",
+    "category":"Academic",
+    "raw_date":"May 8",
+    "date":"2028-05-08",
+    "end_date":"2028-05-08"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"May 19",
+    "date":"2028-05-19",
+    "end_date":"2028-05-19"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Fee Payments (University Bursar)",
+    "category":"Financial",
+    "raw_date":"May 19",
+    "date":"2028-05-19",
+    "end_date":"2028-05-19"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 29: Memorial Day",
+    "date":"2028-05-29",
+    "end_date":"2028-05-29"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Memorial Day",
+    "category":"Holiday",
+    "raw_date":"May 29: Memorial Day",
+    "date":"2028-05-29",
+    "end_date":"2028-05-29"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"June 9",
+    "date":"2028-06-09",
+    "end_date":"2028-06-09"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"June 16",
+    "date":"2028-06-16",
+    "end_date":"2028-06-16"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth: June 19",
+    "date":"2028-06-19",
+    "end_date":"2028-06-19"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Juneteenth: June 19",
+    "date":"2028-06-19",
+    "end_date":"2028-06-19"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Holidays (no classes)",
+    "category":"Holiday",
+    "raw_date":"Summer Break: June 19 - 23",
+    "date":"2028-06-19",
+    "end_date":"2028-06-23"
+  },
+  {
+    "term":"Summer A 2028",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"June 22",
+    "date":"2028-06-22",
+    "end_date":"2028-06-22"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Drop Deadline (W assigned to individual course(s). Drops of individual courses must be approved by the student's college.)",
+    "category":"Registration",
+    "raw_date":"July 28",
+    "date":"2028-07-28",
+    "end_date":"2028-07-28"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Classes End",
+    "category":"Academic",
+    "raw_date":"August 4",
+    "date":"2028-08-04",
+    "end_date":"2028-08-04"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Commencement (Dates of graduate and professional school commencements can vary. Please refer to the official schedules. Dates\/times of all ceremonies will be posted when officially scheduled.)",
+    "category":"Commencement",
+    "raw_date":"August 4 - 5",
+    "date":"2028-08-04",
+    "end_date":"2028-08-05"
+  },
+  {
+    "term":"Summer C 2028",
+    "event":"Final Grades Available (transcript view, on ONE.UF)",
+    "category":"Academic",
+    "raw_date":"August 9",
+    "date":"2028-08-09",
+    "end_date":"2028-08-09"
+  }
+]
