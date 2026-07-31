@@ -4,6 +4,12 @@ import json
 import datetime
 import os
 
+class DateTimeEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, (datetime.date, datetime.datetime, pd.Timestamp)):
+            return obj.strftime('%Y-%m-%d') if hasattr(obj, 'strftime') else obj.isoformat()
+        return super().default(obj)
+
 # Set page config
 st.set_page_config(
     page_title="UF Academic Deadlines Hub",
@@ -51,7 +57,7 @@ def load_data(filename):
     path = os.path.join('data', filename)
     if os.path.exists(path):
         if filename.endswith('.json'):
-            return pd.read_json(path)
+            return pd.read_json(path, convert_dates=False)
         elif filename.endswith('.csv'):
             return pd.read_csv(path)
     return None
@@ -171,7 +177,7 @@ else:
                 mime="text/csv"
             )
         with dl_col2:
-            json_data = json.dumps(filtered_df[display_cols].to_dict(orient='records'), indent=2).encode('utf-8')
+            json_data = json.dumps(filtered_df[display_cols].to_dict(orient='records'), cls=DateTimeEncoder, indent=2).encode('utf-8')
             st.download_button(
                 label="📥 Download filtered JSON",
                 data=json_data,
